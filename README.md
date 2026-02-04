@@ -37,22 +37,21 @@ Choose one of the following options:
 
 1. Install the binary (if released):
    ```
-   go install github.com/OWNER/REPO/cmd/gofastfuzzer@latest
+   go install github.com/bspippi1337/gofastfuzzer/cmd/gofastfuzzer@latest
    ```
 
 2. Build from source:
    ```
-   git clone https://github.com/OWNER/REPO.git
+   git clone https://github.com/bspippi1337/gofastfuzzer.git
    cd REPO
    go build ./cmd/gofastfuzzer
    ```
 
 3. Use as a library:
    ```
-   go get github.com/OWNER/REPO@latest
+   go get github.com/bspippi1337/gofastfuzzer@latest
    ```
 
-Replace `OWNER/REPO` with `bspippi1337/gofastfuzzer` when you run the commands.
 
 ## Usage
 
